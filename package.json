@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tinoks/API/issues"
   },
-  "homepage": "https://github.com/tinoks/API#readme"
+  "homepage": "https://github.com/tinoks/API#readme",
+  "dependencies": {
+    "pg": "^7.4.3"
+  }
 }
